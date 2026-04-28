@@ -1,0 +1,10 @@
+body{
+background-color:#ff0000
+font-family:sans-serif
+text-algin:center}
+button{padding:10px 20px;
+background-color:#ff4757;
+color:white;
+border:none;
+border-radius:10 px;
+cursor:pointer;}
